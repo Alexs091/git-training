@@ -1,3 +1,3 @@
 # git-training
 prueba
-la vida es dura
+prueba rama merge
